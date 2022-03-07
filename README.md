@@ -7,3 +7,6 @@ Blackjack game made with Python's PyGame module.
 - Playability
 - Hit and Hold buttons
 - Maybe voice effects
+
+
+DROPPED
